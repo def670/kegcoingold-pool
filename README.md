@@ -158,7 +158,7 @@ sudo su - your-user
 Clone the repository and run `npm update` for all the dependencies to be installed:
 
 ```bash
-git clone https://github.com/kegcoingold/kegcoin-pool.git pool
+git clone https://github.com/kegcoingold/kegcoingold-pool.git pool
 cd pool
 
 npm update
